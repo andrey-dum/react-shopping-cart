@@ -11,6 +11,7 @@ export const Wrapper = styled.div`
 
   button {
     border-radius: 0 0 6px 6px;
+    padding: 10px 0;
   }
 
   img {
