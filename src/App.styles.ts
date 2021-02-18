@@ -4,7 +4,8 @@ import IconButton from '@material-ui/core/IconButton';
 
 
 export const Wrapper = styled.div`
-    margin: 40px;
+  margin: 40px auto;
+  max-width: 1280px;
 `;
 
 export const StyledButton = styled(IconButton)`
